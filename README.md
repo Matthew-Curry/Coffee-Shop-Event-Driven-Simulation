@@ -1,0 +1,2 @@
+# Coffee-Shop-Event-Driven-Simulation
+This is an event driven simulation of a coffee shop. The program takes a text file including the arrival times of customers to the shop throughout the day and uses the principles of object oriented programming, event driven simulation, and various data structures to simulate the shop and calculate net profit for the day. This program was used to determine the optimum number of cashiers to use in the shop by changing this variable between runs and comparing net profit values. 
